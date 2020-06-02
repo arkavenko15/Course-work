@@ -1,0 +1,31 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~RESUME~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Surname:Bachinskuy
+Name: Volodimyr
+Patronymic: Serhiiyovich
+Age: 32
+Want to get the place of: Java_Full_Stack_Developer
+Phone number: 0984659746
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~RESUME~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Surname:Krotov
+Name: Vasyl
+Patronymic: Serhiiyovich
+Age: 21
+Want to get the place of: C#_full_stack_developer
+Phone number: 0973456732
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~RESUME~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Surname:Kovaluk
+Name: Vadim
+Patronymic: Mykolayovich
+Age: 24
+Want to get the place of: Job_Recruiter
+Phone number: 0983645782
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
